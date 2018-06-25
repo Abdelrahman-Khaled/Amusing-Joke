@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529344559 source:f:\problem solving\amusing joke\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
